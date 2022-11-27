@@ -1,4 +1,4 @@
-const Member = [
+const MemberData = [
   {
     id: 1,
     name: "Prakash Kumar",
@@ -12,4 +12,4 @@ const Member = [
     designation: "Back End Developer",
   },
 ];
-export default Member;
+export default MemberData;

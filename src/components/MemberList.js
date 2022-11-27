@@ -1,7 +1,8 @@
 import MemberCard from "./membercard";
-import Member from "../../data";
+import MemberData from "../../data";
+
 const MemberList = () => {
-  const memberList = Member.map((member) => {
+  const memberList = MemberData.map((member) => {
     return <MemberCard member={member} key={member.id} />;
   });
   return memberList;
