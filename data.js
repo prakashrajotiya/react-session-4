@@ -7,7 +7,7 @@ const Member = [
   },
   {
     id: 2,
-    name: "Ramesh Kumar demo",
+    name: "Ramesh Kumar",
     avatar: "https://placehold.jp/ffffff/300x300.png",
     designation: "Back End Developer",
   },
